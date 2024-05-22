@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1666725715 source:c:\users\afnan danish\desktop\assignment 1\functions.c
+	<stdio.h>
+	<stdlib.h>
+	"node.h"
+	"header.h"
+	<time.h>
+
+1666704569 c:\users\afnan danish\desktop\assignment 1\node.h
+
+1666725240 c:\users\afnan danish\desktop\assignment 1\header.h
+
+1666725911 source:c:\users\afnan danish\desktop\assignment 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+	"node.h"
+
+1666777932 source:c:\users\afnan danish\desktop\assignment 1 - copy\functions.c
+	<stdio.h>
+	<stdlib.h>
+	"node.h"
+	"header.h"
+	<time.h>
+	<string.h>
+
+1666704569 c:\users\afnan danish\desktop\assignment 1 - copy\node.h
+
+1666774202 c:\users\afnan danish\desktop\assignment 1 - copy\header.h
+
+1666777574 source:c:\users\afnan danish\desktop\assignment 1 - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+	"node.h"
+
+1666777932 source:e:\aadi's work\comsats\3rd semester\data structures and algorithms\assignment 1\assignment 1 - copy\functions.c
+	<stdio.h>
+	<stdlib.h>
+	"node.h"
+	"header.h"
+	<time.h>
+	<string.h>
+
+1666704569 e:\aadi's work\comsats\3rd semester\data structures and algorithms\assignment 1\assignment 1 - copy\node.h
+
+1666774202 e:\aadi's work\comsats\3rd semester\data structures and algorithms\assignment 1\assignment 1 - copy\header.h
+
+1666778205 source:e:\aadi's work\comsats\3rd semester\data structures and algorithms\assignment 1\assignment 1 - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+	"node.h"
+
